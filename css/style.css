@@ -99,9 +99,9 @@ li > a:hover{
 
 
 @media(max-width:992px){
-	.navbar-brand{
-	padding-left: 20px;
-}
+	.container-fluid .navbar-brand{
+		padding-left:20px;
+	}
 }
 	
 
